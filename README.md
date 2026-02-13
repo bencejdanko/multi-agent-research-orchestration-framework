@@ -1,4 +1,4 @@
-# daily-research
+# multi-agent-research-orchestration-framework
 
 Automated agentic research intelligence system — discovers papers on arXiv,
 builds a self-growing knowledge graph, tracks trends and novelty, generates
